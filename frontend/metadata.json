@@ -1,0 +1,4 @@
+{
+  "name": "AI Text Corrector",
+  "description": "A stateless web application that uses Gemini to spell check and autocorrect text paragraphs."
+}
